@@ -241,7 +241,7 @@ algorithms, knowledgebase and AI technology.
 * [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 * [Zanran](http://zanran.com)
 * [ZoomEye](https://www.zoomeye.ai/) - ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.
-* [Vigilix Engine](https://engine.vigilix.id) - Real-time passive IPv4 index for Indonesian internet. Search exposed devices by port, protocol, server, favicon hash (Shodan-compatible MMH3), sector (Government/Education/Energy/Finance), and organization. 1M+ indexed services, continuously updated.
+* [Vigilix Engine](https://engine.vigilix.id) - Real-time passive IPv4 index for Indonesian internet. Search exposed devices by port, protocol, server, favicon hash (Shodan-compatible MMH3), sector (Government/Education/Energy/Finance), and organization. 1M+ indexed services, continuously updated. 
 
 ## [↑](#-table-of-contents) Dark Web Search Engines
 * [Ahmia](https://ahmia.fi)
